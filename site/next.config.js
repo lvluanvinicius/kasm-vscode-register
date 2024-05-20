@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Luxe Softwares',
+    description: 'Luxe Softwares',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://github.com/lvluanvinicius/kasm-vscode-register',
+    contactUrl: 'https://github.com/lvluanvinicius/kasm-vscode-register/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
